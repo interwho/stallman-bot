@@ -2,6 +2,14 @@
 
 A Slack Hubot integration inspired by the Stallman on Steroids bot for /g/. Featuring interjections powered by the wisdom of the great rms.
 
+# Warning
+
+Installation at work may lead to situations like this:
+
+![Warning](warning.png)
+
+You have been warned.
+
 # License
 
 (c) 2015 Justin Paulin
