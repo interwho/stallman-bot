@@ -372,25 +372,25 @@ sexy_pics = [
 ]
 
 handsome_pics = [
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/1.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/2.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/3.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/4.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/5.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/6.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/7.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/8.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/9.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/10.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/11.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/12.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/13.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/14.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/15.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/16.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/17.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/18.jpg",
-  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/19.png"
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/1.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/2.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/3.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/4.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/5.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/6.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/7.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/8.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/9.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/10.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/11.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/12.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/13.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/14.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/15.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/16.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/17.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/18.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/handsome/19.png"
 ]
 
 module.exports = (robot) ->
