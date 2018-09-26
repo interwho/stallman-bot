@@ -364,37 +364,33 @@ In addition, a US judge, presiding over a trial for copyright infringement, reco
 '''
 
 sexy_pics = [
-  "http://40.media.tumblr.com/b2df0474f3da4994418054ae4f92a99c/tumblr_meu30mElfV1rqb96wo1_400.png",
-  "http://40.media.tumblr.com/8f1ac02d3e13980e48055532d9c2585a/tumblr_mfk1hwpr0Q1rfmqsoo1_500.jpg",
-  "http://i1-news.softpedia-static.com/images/news2/Richard-Stallman-Says-He-Created-GNU-Which-Is-Called-Often-Linux-482416-2.jpg",
-  "http://dana.i2cat.net/wp-content/uploads/2012/05/1336715775_1.jpg",
-  "http://www.davidherrold.com/wordpress/wp-content/uploads/2008/09/stallman.jpg"
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/1.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/2.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/3.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/4.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/5.png"  
 ]
 
 handsome_pics = [
-  "https://stallman.org/image001.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Richard_Stallman_2005_(chrys).jpg/220px-Richard_Stallman_2005_(chrys).jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/f/f7/Richard_Matthew_Stallman.jpeg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Richard_Stallman_-_F%C3%AAte_de_l'Humanit%C3%A9_2014_-_010.jpg/682px-Richard_Stallman_-_F%C3%AAte_de_l'Humanit%C3%A9_2014_-_010.jpg",
-  "http://www.techcentral.co.za/wp-content/uploads/2013/08/Richard-Stallman-640.jpg",
-  "http://core0.staticworld.net/images/idge/imported/imageapi/2014/10/08/02/richard-stallman-600x450_2-100487109-primary-idge.jpg",
-  "http://www.thehindu.com/multimedia/dynamic/00921/TH13_THERN_RICHARD__921969f.jpg",
-  "http://trisquel.info/files/stnew7.jpg",
-  "http://cdni.wired.co.uk/620x413/s_v/Turing%20Festival%20-%20Richard%20Stallman%20EM%2004.jpg",
-  "http://techrights.org/wp-content/uploads/2013/09/richard-stallman.jpg",
-  "https://stallman.org/saintignucius.jpg",
-  "http://www.sikharchives.com/wp-content/uploads/2012/01/richard_stallman_free_software_foundation_founder.jpg",
-  "http://www.mladina.si/media/www/slike/2012/19/__610/vint-richard-stallma_1.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/5/5e/Richard_Stallman_-_Preliminares_2013_(5).jpg",
-  "https://stallman.org/photos/australia/sydney-cockatiels/157-5746_IMG.JPG",
-  "http://www.opensourceforu.efytimes.com/wp-content/uploads/2012/03/RMS-ANDC1-590x410.jpg",
-  "http://www.science-et-magie.com/archives02num/sm63/images/stallman-05.png",
-  "http://www.configpixel.com/wp-content/uploads/2011/03/n669694863_1301063_8162.jpg",
-  "http://41.media.tumblr.com/0febfc543baaf2663fef2e2f8f9c8280/tumblr_mjrk1wJUOo1qedj2ho1_1280.jpg",
-  "http://www.woodmann.com/images/richard1.jpg",
-  "http://lunduke.com/wp-content/uploads/2012/03/RMS_iGNUcius_techfest_iitb.jpeg",
-  "http://gutl.jovenclub.cu/wp-content/uploads/2012/06/richard-stallman-foto-el-mundo.jpg?980efb",
-  "http://www.davidherrold.com/wordpress/wp-content/uploads/2008/09/stallman.jpg"
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/1.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/2.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/3.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/4.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/5.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/6.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/7.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/8.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/9.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/10.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/11.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/12.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/13.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/14.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/15.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/16.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/17.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/18.jpg",
+  "https://raw.githubusercontent.com/interwho/stallman-bot/master/pics/sexy/19.png"
 ]
 
 module.exports = (robot) ->
